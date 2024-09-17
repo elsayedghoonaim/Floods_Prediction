@@ -4,8 +4,7 @@
 This project aims to predict flood events in Lagos, Nigeria using historical weather data and machine learning techniques. The analysis includes data preprocessing, exploratory data analysis, and the development of a predictive model using XGBoost.
 
 ## Data Sources
-- Weather data: 'lagos_weeather_data_2002_to_2024.csv'
-- Flood event data: 'Flood event.xlsx'
+- Kaggle
 
 ## Methodology
 
